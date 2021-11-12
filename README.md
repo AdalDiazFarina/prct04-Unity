@@ -24,7 +24,7 @@ Mi interfaz en un canvas que tiene una serie de elementos: botones, un panel y u
 
 Pues los botones desde el inspector se le puede asignar un evento onclick como podemos ver en la siguiente imagen:
 
-![evento](assets/img/evento.png)
+![evento](assets/img/evento.PNG)
 
 ## Muestra de la interfaz
 
